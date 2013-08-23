@@ -726,6 +726,8 @@ public abstract class BaseCommands implements CommandsInterface {
     @Override
     public int getRilVersion() {
         return mRilVersion;
+    }
+
     /**
      * @hide
      */
